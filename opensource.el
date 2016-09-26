@@ -1,7 +1,7 @@
 ;;; opensource.el --- Client for Opensource API
 
 ;; Author: Nicolas Lamirault <nicolas.lamirault@gmail.com>
-;; URL: https://github.com/nlamirault/opensource.el
+;; URL: https://github.com/OpenSourceOrg/el-opensourceorg
 ;; Version: 0.2.0
 ;; Keywords: opensource
 
@@ -48,7 +48,7 @@
 (defgroup opensource nil
   "Opensource API client."
   :group 'applications
-  :link '(url-link :tag "Github" "https://github.com/nlamirault/opensource.el")
+  :link '(url-link :tag "Github" "https://github.com/OpenSourceOrg/el-opensourceorg")
   :link '(emacs-commentary-link :tag "Commentary" "opensource API client"))
 
 ;; The library
