@@ -1,5 +1,4 @@
-<img align="right" width="150" height="200" src="https://opensource.org/files/OSIApproved.png">
-
+<a href="https://opensource.org/licenses"><img align="right" width="150" height="200" src="https://opensource.org/files/OSIApproved.png"></a>
 # opensource.el
 
 [![Coverage Status](https://coveralls.io/repos/nlamirault/opensource.el/badge.png)](https://coveralls.io/r/nlamirault/opensource.el)
